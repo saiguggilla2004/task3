@@ -1,5 +1,5 @@
 import React from "react";
-import "./UserCard.css";
+import "./Usercard.css";
 
 function UserCard({ name, email }) {
   return (
